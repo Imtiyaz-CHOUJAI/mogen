@@ -1,2 +1,2 @@
-# mogen
+# Mogen
 Vue Module generator

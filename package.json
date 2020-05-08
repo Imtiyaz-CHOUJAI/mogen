@@ -1,0 +1,40 @@
+{
+  "name": "mogen",
+  "version": "1.0.0",
+  "description": "Vue module generator CLI helper for Laravel",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imtiyaz-CHOUJAI/mogen.git"
+  },
+  "keywords": [
+    "VueJs",
+    "Module",
+    "Generator",
+    "Laravel",
+    "VueX",
+    "cli",
+    "bin",
+    "util",
+    "utility",
+    "helper",
+    "argv",
+    "command",
+    "line"
+  ],
+  "author": "Imtiyaz CHOUJAI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Imtiyaz-CHOUJAI/mogen/issues"
+  },
+  "homepage": "https://github.com/Imtiyaz-CHOUJAI/mogen#readme",
+  "engines": {
+    "node": ">=10"
+  },
+  "devDependencies": {
+    "yargs": "^15.3.1"
+  }
+}

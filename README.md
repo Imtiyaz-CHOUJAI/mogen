@@ -1,0 +1,2 @@
+# mogen
+Vue Module generator
